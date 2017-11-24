@@ -13,4 +13,4 @@
 ## 解决碰撞
 　　当两个关键字散列到同一个值得时候，称之为冲突或碰撞。这里介绍几种解决碰撞的方法。
 #### 拉链法
-　　![拉链法](http://orvltx8rw.bkt.clouddn.com/github/1.png)
+　　![拉链法](http://orvltx8rw.bkt.clouddn.com/github/6.png)
