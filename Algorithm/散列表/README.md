@@ -13,7 +13,7 @@
 ## 解决碰撞
 　　当两个关键字散列到同一个值得时候，称之为冲突或碰撞。这里介绍几种解决碰撞的方法。
 #### 拉链法
-　　![拉链法](http://orvltx8rw.bkt.clouddn.com/github/6.png)
+　　![拉链法](http://orvltx8rw.bkt.clouddn.com/github/6.png)</br>
 　　为执行find，使用散列函数确定要考察哪个链表，遍历该表并返回关键字的位置。</br>
 　　未执行insert，首先确定该元素是否在表中。如果是新元素，插入表的前端或末尾。</br>
 　　为执行delete，找到该元素执行链表删除即可。</br>
